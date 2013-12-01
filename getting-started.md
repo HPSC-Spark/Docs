@@ -31,7 +31,7 @@ the Spark port (like 7077) and the web UI port (like 8080).
 Accessing the Web UI using SSH
 ------------------------------
 
-Use the \"hostname\" command to figure out the hostname of your node. It will
+Use the "hostname" command to figure out the hostname of your node. It will
 be something like *node0848*. This node is buried on the JANUS network somewhere,
 and we want to reach it at its web UI port (8080). The easiest approach is to
 use SSH port forwarding.
